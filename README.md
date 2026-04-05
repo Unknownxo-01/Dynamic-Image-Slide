@@ -23,8 +23,6 @@ Lightweight and efficient front-end implementation
 
 💻 Technologies Used
 
-React.js – for dynamic component rendering
-
 HTML5 – for structure
 
 CSS3 – for styling and animations
